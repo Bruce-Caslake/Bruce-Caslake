@@ -3,7 +3,7 @@
 
 - # Education
 - Sunrise Mountain high school - Graduated 2002
-- Glendale Community College - Certificate of Completion in Cybersecurity Fundamentals
+- Glendale Community College - Certificate of Completion in Cybersecurity Fundamentals - 2022
 - Current student at Glendale Community College in Glendale, AZ - working towards my Associates
 
 - # Interests
