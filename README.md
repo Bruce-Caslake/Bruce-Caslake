@@ -10,11 +10,12 @@ My name is Bruce Caslake. I am working on starting a new chapter in my professio
 I have been fascinated with anything Technology related since I was young and taking apart my toys to see how they worked. They never did go back together but I learned a lot. Whether its hardware or software related, I find that although frustrating at times, it can be fulfilling to see a project come to a close with everything working as it should.
 
 # Skills/Certifications
- ## Skills
-- Python 
-- Linux
-- Windows
-- Team player
+## Skills
+<p align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,linux,windows" />
+   </a>
+</p>
 
 ## Certifications
 - Secret Clearance 
