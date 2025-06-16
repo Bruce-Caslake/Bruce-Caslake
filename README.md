@@ -11,9 +11,10 @@
 
 - # Skills/Certifications
 - ## Skills
-- Python
+- Python 
 - Linux
-- Windows 
+- Windows
+- Team player
 
 - ## Certifications
 - Secret Clearance 
