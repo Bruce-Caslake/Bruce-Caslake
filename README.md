@@ -13,7 +13,7 @@ I have been fascinated with anything Technology related since I was young and ta
 ## Skills
 <p align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,linux,windows" />
+      <img src="https://skillicons.dev/icons?i=py,linux,windows,apple" />
    </a>
 </p>
 
