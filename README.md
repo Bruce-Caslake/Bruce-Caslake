@@ -16,7 +16,7 @@
 - Windows 
 
 - ## Certifications
-- Secret Clearnce holder
+- Secret Clearance 
 - CompTIA Network +
 - CompTIA Security + future holder
 
