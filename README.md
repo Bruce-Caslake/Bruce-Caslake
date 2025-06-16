@@ -1,6 +1,12 @@
  # Who Am I?
 My name is Bruce Caslake. I am working on starting a new chapter in my professional career. Currently enrolled at my local Community College to work towards an Associates in Computer Science/Cybersecurity. But that is only the beginning, skies the limit!
 
+<p align="left">
+   <a href="https://discordapp.com/users/1384265675064869087">
+      <img src="https://skillicons.dev/icons?i=discord" />
+   </a>
+</p>
+
 # Education
 - Sunrise Mountain high school - Graduated 2002
 - Glendale Community College - Certificate of Completion in Cybersecurity Fundamentals - 2022
